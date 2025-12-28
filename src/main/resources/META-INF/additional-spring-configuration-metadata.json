@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "yandex.weather.api-key",
+  "type": "java.lang.String",
+  "description": "An api key for yandex weather 'yandex.weather.api-key'"
+}]}
